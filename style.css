@@ -92,7 +92,7 @@ li{
     background-position: center;
 }
 .w_p h5{
-    color: #363958;
+color: orange;
 padding-left: 10px;
 }
 .w_p p{
@@ -204,6 +204,7 @@ padding-left: 10px;
   }
   .text h2{
      padding-top: 25px;
+     color: orange;
   }
   .last_button{
       width: 30%;
